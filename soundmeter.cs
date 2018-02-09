@@ -13,7 +13,7 @@ public class ChatData
 
 public class SocketIOScript : MonoBehaviour
 {
-    public string serverURL = "http://localhost:3000";
+    public string serverURL = "http://13.125.163.183:3000";
 
     protected Socket socket = null;
     protected string soundmeter = "";
